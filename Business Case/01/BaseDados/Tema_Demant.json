@@ -1,0 +1,42 @@
+﻿{
+  "name": "Demant Colors",
+  "dataColors": [
+    "#24405B",
+    "#74CECD",
+    "#A4D6FC",
+    "#F1F1F1",
+    "#F9B200",
+    "#3344F6",
+    "#D9B300",
+    "#F9B200" 
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 100
+          }
+        ]
+      }
+    }
+  }
+}
